@@ -69,15 +69,6 @@ CREATE TABLE users (
 
 ## 📸 Screenshots
 
-### 🔐 Login Page  
-![login](https://github.com/user-attachments/assets/23c72f6f-6526-4bbb-a6cc-cfc7a559875a)
-
----
-
-### 📝 Register Page  
-![register](https://github.com/user-attachments/assets/2b2824d3-30a1-4cac-82f9-4a507d8d41ca)
-
----
-
-### 🏠 Home Page (Post List)  
-![index](https://github.com/user-attachments/assets/6141e78c-aea6-4164-87c4-7f0b8c7c7f00)
+![Image](https://github.com/user-attachments/assets/19e0cad2-b79d-4e54-9f52-ed93549a1ac2)
+![Image](https://github.com/user-attachments/assets/5252db46-5726-4319-ac2c-f6a4bcd792f9)
+![Image](https://github.com/user-attachments/assets/92f3a162-b3a0-4cbe-882b-7545243862a4)
