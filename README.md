@@ -69,6 +69,15 @@ CREATE TABLE users (
 
 ## 📸 Screenshots
 
-![Image](https://github.com/user-attachments/assets/19e0cad2-b79d-4e54-9f52-ed93549a1ac2)
-![Image](https://github.com/user-attachments/assets/5252db46-5726-4319-ac2c-f6a4bcd792f9)
-![Image](https://github.com/user-attachments/assets/92f3a162-b3a0-4cbe-882b-7545243862a4)
+### 🔐 Login Page  
+<img src="https://raw.githubusercontent.com/openai-mallika/screenshots/main/login.png" width="700"/>
+
+---
+
+### 📝 Register Page  
+<img src="https://raw.githubusercontent.com/openai-mallika/screenshots/main/register.png" width="700"/>
+
+---
+
+### 🏠 Home Page (Post List)  
+<img src="https://raw.githubusercontent.com/openai-mallika/screenshots/main/index.png" width="700"/>
