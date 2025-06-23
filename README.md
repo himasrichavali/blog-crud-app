@@ -66,11 +66,15 @@ CREATE TABLE users (
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
-![Login](screenshots/login.png)
+### 🔐 Login Page  
+<img src="https://chat.openai.com/cdn-cgi/imagedelivery/k-LGZsZThM1UuXzmDQX7bA/9ShPB6vq1rtwtMM1LwVyaf/public" alt="Login Screenshot" width="700"/>
 
-### 📝 Register Page
-![Register](screenshots/register.png)
+---
 
-### 📃 Home (Post List)
-![Home](screenshots/index.png)
+### 📝 Register Page  
+<img src="https://chat.openai.com/cdn-cgi/imagedelivery/k-LGZsZThM1UuXzmDQX7bA/GdSyQHJQ9p999jSwHzBEE6/public" alt="Register Screenshot" width="700"/>
+
+---
+
+### 🏠 Home Page (Post List)  
+<img src="https://chat.openai.com/cdn-cgi/imagedelivery/k-LGZsZThM1UuXzmDQX7bA/DXTy9cm3feJRJmy4zQ8rQ5/public" alt="Index Screenshot" width="700"/>
