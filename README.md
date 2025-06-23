@@ -1,3 +1,6 @@
+
+
+
 # Blog CRUD Application using PHP & MySQL
 
 ✨ This project is built as **Task 2** of my 45-day **Web Development Internship** with [ApexPlanet Software Pvt. Ltd.](https://www.apexplanet.in/).
@@ -67,14 +70,14 @@ CREATE TABLE users (
 ## 📸 Screenshots
 
 ### 🔐 Login Page  
-<img src="https://chat.openai.com/cdn-cgi/imagedelivery/k-LGZsZThM1UuXzmDQX7bA/9ShPB6vq1rtwtMM1LwVyaf/public" alt="Login Screenshot" width="700"/>
+![login](https://github.com/user-attachments/assets/23c72f6f-6526-4bbb-a6cc-cfc7a559875a)
 
 ---
 
 ### 📝 Register Page  
-<img src="https://chat.openai.com/cdn-cgi/imagedelivery/k-LGZsZThM1UuXzmDQX7bA/GdSyQHJQ9p999jSwHzBEE6/public" alt="Register Screenshot" width="700"/>
+![register](https://github.com/user-attachments/assets/2b2824d3-30a1-4cac-82f9-4a507d8d41ca)
 
 ---
 
 ### 🏠 Home Page (Post List)  
-<img src="https://chat.openai.com/cdn-cgi/imagedelivery/k-LGZsZThM1UuXzmDQX7bA/DXTy9cm3feJRJmy4zQ8rQ5/public" alt="Index Screenshot" width="700"/>
+![index](https://github.com/user-attachments/assets/6141e78c-aea6-4164-87c4-7f0b8c7c7f00)
